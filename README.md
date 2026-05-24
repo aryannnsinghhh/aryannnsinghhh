@@ -1,34 +1,36 @@
-
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryannnsinghhh/aryannnsinghhh/main/banner.png" alt="Banner" width="100%" />
 </p>
 
----
+<!-- Intro -->
+# ***Hi! I'm Aryan:)***
 
-# Hi, I'm Aryan:
-<p class="courgette-regular">
-  -> Final year CSE student at VIT Vellore, graduating June 2026<br>
+<!-- About Me -->
+***-> Final year CSE student at VIT Vellore, graduating June 2026<br>
   -> Started with Backend, working around data, ML is where I am right now<br>
   -> Spent my internship writing real APIs for real teams. Agile, standups and all<br>
-  -> Curious about where AI is going and building toward that
-</p>
+  -> Curious about where AI is going and building toward that***
 
----
+<!-- Social Links -->
+## ***Here are my socials:***
 
-## Here are my socials:
+<br>
 
 <div align="center"> 
   <a href="https://linkedin.com/in/aryannnsinghhh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="mailto:aryankrsingh987@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
 
----
+<!-- Tech Stack -->
+## ***Have a look at this:***
 
-## Have a look at this:
+<br>
 
 <div align="center">
 
@@ -68,12 +70,16 @@
 
 </div>
 
----
+##
 
+<!-- Snake Contribution Animation -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/aryannnsinghhh/aryannnsinghhh/output/github-snake-dark.svg" />
 </div>
+
 <br>
+
+<!-- Footer Typing Message -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=B6DDFF&center=true&vCenter=true&width=1000&lines=Trust+the+process!+Let's+connect!" alt="Typing SVG" />
 </a>
