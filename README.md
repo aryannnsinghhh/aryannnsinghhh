@@ -28,7 +28,7 @@
 
 ---
 
-## Have a look at whatever you wanna call this:
+## Have a look at this:
 
 <div align="center">
 
