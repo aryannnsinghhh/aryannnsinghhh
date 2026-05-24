@@ -8,9 +8,9 @@
 # Hi, I'm Aryan:
 <p class="courgette-regular">
   -> Final year CSE student at VIT Vellore, graduating June 2026<br>
-  -> Started with Backend, ML is where I am rn, data is what connects both<br>
-  -> Spent my internship writing real APIs for real teams, agile, standups and all<br>
-  -> Genuinely curious about where AI is going and building toward that
+  -> Started with Backend, working around data, ML is where I am right now<br>
+  -> Spent my internship writing real APIs for real teams. Agile, standups and all<br>
+  -> Curious about where AI is going and building toward that
 </p>
 
 ---
