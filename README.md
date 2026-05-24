@@ -75,5 +75,5 @@
 </div>
 <br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=B6DDFF&center=true&vCenter=true&width=1000&lines=Thanks+for+stopping+by%2C+let's+connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=B6DDFF&center=true&vCenter=true&width=1000&lines=Trust+the+process!%2C+Let's+connect!" alt="Typing SVG" />
 </a>
