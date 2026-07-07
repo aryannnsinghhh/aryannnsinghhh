@@ -7,7 +7,7 @@
 # ***Hi! I'm Aryan:)***
 
 <!-- About Me -->
-***-> Final year CSE student at VIT Vellore, graduating June 2026<br>
+***-> CSE graduate from VIT Vellore, graduating Aug 2026<br>
   -> Started with Backend, working around data, ML is where I am right now<br>
   -> Spent my internship writing real APIs for real teams. Agile, standups and all<br>
   -> Curious about where AI is going and building toward that***
